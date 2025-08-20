@@ -1,0 +1,3 @@
+# Put one mobile OK.ru topic URL per line.
+# Example line below is illustrative; replace with real topic URLs you have access to.
+https://m.ok.ru/group/1234567890/topic/1234567890
